@@ -13,7 +13,8 @@
         "公式サイト": "http://www.horyuji.or.jp",
         "id": "geolonia",
         "repository": "world-heritage-map",
-        "": "<style>.geolonia{ width: 600px; height: 500px; \tpadding: 0; margin: 0;}</style><div class=\"geolonia\" data-geojson=\"",
+        "APIキー": "17111418d485464e946a0cdc6e926dcf",
+        "": "<style>.geolonia{ width: 600px; height: 500px; padding: 0; margin: 0;}</style><div class='\"'geolonia\" data-geojson=\"34.629654\" data-lat=135.721503 data-zoom=15></div><script type=\"text/javascript\" src=\"https://cdn.geolonia.com/v1/embed?geolonia-api-key=17111418d485464e946a0cdc6e926dcf\"></script>",
         "title": "法隆寺地域の仏教建造物（法隆寺）"
       },
       "geometry": {
@@ -36,6 +37,7 @@
         "公式サイト": "https://www.city.himeji.lg.jp/castle/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "姫路城"
       },
@@ -59,6 +61,7 @@
         "公式サイト": "http://yakukan.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "屋久島"
       },
@@ -82,6 +85,7 @@
         "公式サイト": "https://aomori-tourism.com/spot/detail_73.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "白神山地（十二湖）"
       },
@@ -105,6 +109,7 @@
         "公式サイト": "http://business4.plala.or.jp/sirakami/tourism/008_garou.htm",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "白神山地（峨瓏の滝）"
       },
@@ -128,6 +133,7 @@
         "公式サイト": "https://www.shokoku-ji.jp/kinkakuji/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "古都京都の文化財（金閣寺）"
       },
@@ -151,6 +157,7 @@
         "公式サイト": "https://www.hieizan.or.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "古都京都の文化財（延暦寺）"
       },
@@ -174,6 +181,7 @@
         "公式サイト": "https://shirakawa-go.gr.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "白川郷・五箇山の合掌造り集落（白川郷）"
       },
@@ -197,6 +205,7 @@
         "公式サイト": "https://gokayama-info.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "白川郷・五箇山の合掌造り集落（五箇山）"
       },
@@ -220,6 +229,7 @@
         "公式サイト": "https://dive-hiroshima.com/feature/world-heritage-dome/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "原爆ドーム"
       },
@@ -243,6 +253,7 @@
         "公式サイト": "http://www.itsukushimajinja.jp/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "厳島神社"
       },
@@ -266,6 +277,7 @@
         "公式サイト": "https://www.todaiji.or.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "古都奈良の文化財（東大寺）"
       },
@@ -289,6 +301,7 @@
         "公式サイト": "https://www.toshogu.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "日光の社寺（日光東照宮）"
       },
@@ -312,6 +325,7 @@
         "公式サイト": "https://oki-park.jp/shurijo/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "琉球王国のグスク及び関連遺産群（首里城）"
       },
@@ -335,6 +349,7 @@
         "公式サイト": "https://hananoiwaya.com/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "紀伊山地の霊場と参詣道（花の窟神社）"
       },
@@ -358,6 +373,7 @@
         "公式サイト": "http://www.yoshinoyama-sakura.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "紀伊山地の霊場と参詣道（吉野山）"
       },
@@ -381,6 +397,7 @@
         "公式サイト": "http://www.hongutaisha.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "紀伊山地の霊場と参詣道（熊野本宮大社）"
       },
@@ -404,6 +421,7 @@
         "公式サイト": "https://www.shiretoko.asia/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "知床"
       },
@@ -427,6 +445,7 @@
         "公式サイト": "https://www.all-iwami.com/feature/detail_58.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "石見銀山遺跡とその文化的景観"
       },
@@ -450,6 +469,7 @@
         "公式サイト": "https://www.ogasawaramura.com",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "小笠原諸島"
       },
@@ -473,6 +493,7 @@
         "公式サイト": "https://www.chusonji.or.jp/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "平泉－仏国土（浄土）を表す建築・庭園及び考古学的遺跡群（中尊寺）"
       },
@@ -496,6 +517,7 @@
         "公式サイト": "https://hellonavi.jp/mtfuji/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "富士山－信仰の対象と芸術の源泉"
       },
@@ -519,6 +541,7 @@
         "公式サイト": "https://www.pref.yamanashi.jp/miryoku/fujisan/sugata.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "富士山－信仰の対象と芸術の源泉"
       },
@@ -542,6 +565,7 @@
         "公式サイト": "http://www.tomioka-silk.jp/tomioka-silk-mill/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "富岡製糸場と絹産業遺産群"
       },
@@ -565,6 +589,7 @@
         "公式サイト": "https://iwatetabi.jp/spot/detail.spn.php?spot_id=798",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（橋野鉄鉱山）"
       },
@@ -588,6 +613,7 @@
         "公式サイト": "https://www.city.izunokuni.shizuoka.jp/bunka_bunkazai/manabi/bunkazai/hansyaro/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（韮山反射炉）"
       },
@@ -611,6 +637,7 @@
         "公式サイト": "https://www.hagishi.com/search/detail.php?d=100081",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（萩反射炉）"
       },
@@ -634,6 +661,7 @@
         "公式サイト": "https://www.miike-coalmines.jp/miyanohara.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（三池炭鉱 宮原坑）"
       },
@@ -657,6 +685,7 @@
         "公式サイト": "https://www.welcomekyushu.jp/world_heritage/spots/detail/16",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（三角旧港）"
       },
@@ -680,6 +709,7 @@
         "公式サイト": "https://sano-mietsu-historymuseum.city.saga.lg.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（三重津海軍所跡）"
       },
@@ -703,6 +733,7 @@
         "公式サイト": "https://www.welcomekyushu.jp/world_heritage/spots/detail/6",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（旧グラバー住宅）"
       },
@@ -726,6 +757,7 @@
         "公式サイト": "https://www.welcomekyushu.jp/world_heritage/spots/detail/10",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "明治日本の産業革命遺産　製鉄・製鋼、造船、石炭産業（関吉の疎水溝）"
       },
@@ -749,6 +781,7 @@
         "公式サイト": "https://www.nmwa.go.jp/jp/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "国立西洋美術館本館"
       },
@@ -772,6 +805,7 @@
         "公式サイト": "https://munakata-taisha.or.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "「神宿る島」宗像・沖ノ島と関連遺産群（宗像大社辺津宮）"
       },
@@ -795,6 +829,7 @@
         "公式サイト": "https://www.nagasaki-tabinet.com/junrei/721",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "長崎と天草地方の潜伏キリシタン関連遺産（頭ヶ島天主堂）"
       },
@@ -818,6 +853,7 @@
         "公式サイト": "https://www.t-island.jp/spot/86",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "長崎と天草地方の潜伏キリシタン関連遺産（﨑津教会）"
       },
@@ -841,6 +877,7 @@
         "公式サイト": "https://www.sakai-tcb.or.jp/spot/detail/126",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "百舌鳥・古市古墳群（大仙陵古墳）"
       },
@@ -864,6 +901,7 @@
         "公式サイト": "https://www.amami-tourism.org",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "奄美大島、徳之島、沖縄島北部及び西表島（奄美大島）"
       },
@@ -887,6 +925,7 @@
         "公式サイト": "https://www.town.taketomi.lg.jp/about/iriomote/",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "奄美大島、徳之島、沖縄島北部及び西表島（西表島）"
       },
@@ -910,6 +949,7 @@
         "公式サイト": "https://www.date-kanko.jp/?page_id=171",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "北海道・北東北の縄文遺跡群（北黄金貝塚）"
       },
@@ -933,6 +973,7 @@
         "公式サイト": "https://sannaimaruyama.pref.aomori.jp",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "北海道・北東北の縄文遺跡群（三内丸山遺跡）"
       },
@@ -956,6 +997,7 @@
         "公式サイト": "https://goshono-iseki.com/goshonoisekiayumi/index.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "": "",
         "title": "北海道・北東北の縄文遺跡群（御所野遺跡）"
       },
@@ -979,6 +1021,7 @@
         "公式サイト": "https://www.city.kazuno.akita.jp/soshiki/shogaigakushu/oyustonecirclekan/gyomu/1/1/2188.html",
         "id": "",
         "repository": "",
+        "APIキー": "",
         "title": "北海道・北東北の縄文遺跡群（大湯環状列石）"
       },
       "geometry": {
