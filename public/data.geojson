@@ -13,7 +13,7 @@
         "公式サイト": "http://www.horyuji.or.jp",
         "id": "geolonia",
         "repository": "world-heritage-map",
-        "": "https://geolonia.github.io/world-heritage-map/#/?map=12/34.629654/135.721503",
+        "": "<style>.geolonia{ width: 600px; height: 500px; \tpadding: 0; margin: 0;}</style><div class=\"geolonia\" data-geojson=\"",
         "title": "法隆寺地域の仏教建造物（法隆寺）"
       },
       "geometry": {
@@ -34,8 +34,8 @@
         "Instagram": "",
         "Twitter": "",
         "公式サイト": "https://www.city.himeji.lg.jp/castle/",
-        "id": "https://.github.io//#/?map=12/34.629654/135.721503",
-        "repository": "<iframe width=\"600\" height=\"600\" src=\"https://.github.io//#/?map=17/34.356785/135.869984\"   allow=\"geolocation\"</iframe>",
+        "id": "",
+        "repository": "",
         "": "",
         "title": "姫路城"
       },
@@ -58,7 +58,7 @@
         "Twitter": "",
         "公式サイト": "http://yakukan.jp",
         "id": "",
-        "repository": "<iframe width=\"600\" height=\"600\" src=\"https://.github.io//#/?map=17/34.356785/135.869984\"   allow=\"geolocation\"</iframe>",
+        "repository": "",
         "": "",
         "title": "屋久島"
       },
@@ -81,7 +81,7 @@
         "Twitter": "",
         "公式サイト": "https://aomori-tourism.com/spot/detail_73.html",
         "id": "",
-        "repository": "<iframe width=\"600\" height=\"600\" src=\"https://.github.io//#/?map=17/34.356785/135.869984\"   allow=\"geolocation\"</iframe>",
+        "repository": "",
         "": "",
         "title": "白神山地（十二湖）"
       },
@@ -104,7 +104,7 @@
         "Twitter": "",
         "公式サイト": "http://business4.plala.or.jp/sirakami/tourism/008_garou.htm",
         "id": "",
-        "repository": "<iframe width=\"600\" height=\"600\" src=\"https://.github.io//#/?map=17/34.356785/135.869984\"   allow=\"geolocation\"</iframe>",
+        "repository": "",
         "": "",
         "title": "白神山地（峨瓏の滝）"
       },
