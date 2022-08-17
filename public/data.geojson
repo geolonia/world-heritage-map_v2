@@ -11,13 +11,13 @@
         "Instagram": "",
         "Twitter": "",
         "公式サイト": "http://www.horyuji.or.jp",
-        "id": "geolonia",
-        "repository": "world-heritage-map",
+        "id": "kai4den",
+        "repository": "awp_test_v2",
         "APIキー": "17111418d485464e946a0cdc6e926dcf",
-        "地図URL": "https://geolonia.github.io/world-heritage-map/#/?map=12/34.629654/135.721503",
-        "JSON": "https://geolonia.github.io/world-heritage-map/data.geojson",
+        "地図URL": "https://kai4den.github.io/awp_test_v2/#/?map=12/34.629654/135.721503",
+        "JSON": "https://kai4den.github.io/awp_test_v2/data.geojson",
         "": "\"></script>",
-        "自動出力": "<style>.geolonia{ width: 600px; height: 500px; padding: 0; margin: 0;}</style><div class=\"geolonia\" data-geojson=\"https://geolonia.github.io/world-heritage-map/data.geojson\" data-lat=34.629654 data-lng=135.721503 data-zoom=15></div><script type=\"text/javascript\" src=\"https://cdn.geolonia.com/v1/embed?geolonia-api-key=17111418d485464e946a0cdc6e926dcf\"></script>",
+        "自動出力": "<style>.geolonia{ width: 100%; height: 100%; padding: 0; margin: 0;}</style><div class=\"geolonia\" data-geojson=\"https://kai4den.github.io/awp_test_v2/data.geojson\" data-lat=34.629654 data-lng=135.721503 data-zoom=15></div><script type=\"text/javascript\" src=\"https://cdn.geolonia.com/v1/embed?geolonia-api-key=17111418d485464e946a0cdc6e926dcf\"></script>",
         "title": "法隆寺地域の仏教建造物（法隆寺）"
       },
       "geometry": {
